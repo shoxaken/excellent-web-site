@@ -1,0 +1,79 @@
+.umumiy-oquvchilar-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+  }
+  
+  .data-list {
+    width: 45%;
+    background-color: #f4f4f4;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .person-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .person-name {
+    font-weight: bold;
+  }
+  
+  .charge-info {
+    color: #888;
+  }
+  
+  /* Add more styles as needed */
+  /* styles.css */
+/* styles.css */
+
+/* styles.css */
+
+.container2 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .container2 h2 {
+    color: #333;
+  }
+  
+  .container2 ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .container2 li {
+    margin-bottom: 8px;
+  }
+  
+  /* Add any additional styling as needed */
+  
+  

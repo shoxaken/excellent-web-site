@@ -1,0 +1,157 @@
+.Home-App{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* z-index: ; */
+}
+.davomat-text{
+    /* border: 2px solid red; */
+    text-align: center;
+}
+.davomat-tabels {
+    height: 100%;
+    /* border: 2px solid red; */
+}
+.davomatKorish{
+    /* border: 2px solid red; */
+}
+.create3{
+    display: flex;
+    justify-content: space-between;
+}
+.davomat-tabels{
+    height: 640px;
+    border:1px solid black;
+}
+table, th, td {
+    padding: 0.3px;
+    border:1px solid black;
+    height: 19px;
+    width: 70px;
+}
+.create select {
+    height: 39.5px;
+    /* width: 70px; */
+    /* border: 2px solid red; */
+    width: 500px;
+    position: relative;
+    /* right: 100px; */
+    /* top: 40px; */
+    /* padding: 14.6px; */
+    /* margin-top: 8px; */
+    /* padding-top: 20px; */
+}
+.creat-form{
+    display: flex;
+    flex-direction: column;
+    /* margin-top: 40px; */
+    /* margin: 0 0 10px 0; */
+    /* height: 100%; */
+    position: relative;
+    right: 100px;
+    top: -80px;
+    /* padding: 10px; */
+    /* border: 2px solid black; */
+
+}
+/* .guruxNomiName{
+    margin-left: 50px;
+    border: 2px solid red;
+} */
+.AppHeader{
+ 
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+.AppHeader .Header-text{
+    margin: 0 auto;
+    right: 38%;
+    font-size: 40px;
+}
+.AppHeader .header-round{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 32px;
+    border-radius: 50%;
+    background-color: red;
+    color: black;
+    font-size: 15px;
+    padding: 2px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.AppHeader .Header-icons{
+    width: 70px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+.AppFooter{
+    /* border: 2px solid red; */
+    width: 100%;
+    /* position: fixed;  */
+    top: 500px;
+    /* margin-top: 100px; */
+    height: 50px;
+    display: flex;
+    /* flex: 1; */
+    justify-content: space-evenly;
+    align-items: end;
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    
+
+}
+/* .SideMenu{
+
+}
+.PageContent{
+    
+} */
+
+
+
+.davomatKorish{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sidebar{
+    padding: 5px;
+    /* border: 1px solid red; */
+    
+    height: 300px;
+    display: flex;
+    /* justify-content: space-between; */
+    flex-direction: column;
+    position: fixed;
+    left: 0;
+    top: 50px;
+}
+.sidebar p{
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 5px;
+    border: 1px solid red;
+    padding: 20px;
+}
+
+
+
+.Static-dash{
+    position: relative;
+    top: -50px;
+    right: 100px;
+}
+.appfooter2{
+    /* border: 2px solid red; */
+    position: relative;
+    left: 80px;
+}
+
